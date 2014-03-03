@@ -1,6 +1,6 @@
 (function () {
 
-    var serverURL = "http://192.168.1.4:3000", // IMPORTANT: This URL needs to be accessible from your phone for testing.
+    var serverURL = "http://www.pick-app.co.il:3000", // IMPORTANT: This URL needs to be accessible from your phone for testing.
         $scroller = $('.scroller'),
 
         // Get List of images from server
